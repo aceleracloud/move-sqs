@@ -36,7 +36,7 @@
     "deepmerge": "^4.2.2",
     "meow": "^10.0.1",
     "p-limit": "^3.1.0",
-    "p-whilst": "^2.1.0"
+    "p-whilst": "^3.0.0"
   },
   "devDependencies": {
     "coveralls": "^3.0.14",
